@@ -57,12 +57,6 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
-  <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorMoveToPageTop">
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -107,7 +101,6 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
-  <action id="GotoNextError" />
   <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GuiDesigner.GoToListener" />
@@ -115,17 +108,11 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="KotlinShellExecute" />
-  <action id="MethodHierarchy" />
-  <action id="MethodHierarchy.BaseOnThisType" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
-  </action>
-  <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
-    <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="Print" />
   <action id="ReformatCode">
@@ -149,10 +136,6 @@
   </action>
   <action id="SendEOF" />
   <action id="ShowContent" />
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift alt space" />
-    <keyboard-shortcut first-keystroke="meta period" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
@@ -170,9 +153,6 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="TestData.Navigate" />
-  <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="shift meta h" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
