@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -101,6 +102,7 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GuiDesigner.GoToListener" />
@@ -118,6 +120,9 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
   <action id="Print" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -142,6 +147,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShowContent" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
