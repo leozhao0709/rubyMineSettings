@@ -1,0 +1,81 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.4/bin/node" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="SHOW_IMPORT_POPUP" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/flasky_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/frest/frest_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/scraping/scrap_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/workspace_python/script/python-sudo.sh" value="false" />
+        <entry key="/usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/flasky_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/frest/frest_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/workspace_python/script/python-sudo.sh" value="true" />
+        <entry key="/usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="true" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/flasky_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/flasky/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/my_git/frest/frest_venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/Documents/workspace_python/script/python-sudo.sh" value="false" />
+        <entry key="/usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.4.3/Frameworks/Python.framework/Versions/3.4/bin/python3.4" value="false" />
+        <entry key="/usr/local/Cellar/python3/3.5.0/Frameworks/Python.framework/Versions/3.5/bin/python3.5" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
