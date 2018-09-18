@@ -3,332 +3,204 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
-          <option name="groupName" value="output" />
-          <option name="key" value="sout" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-class" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldTag" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngClass" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="jsf" />
-          <option name="key" value="tldFunction" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngFor" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="act" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngFor-trackBy" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="fb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngForAsync" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="struts" />
-          <option name="key" value="gf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formControlName" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formGroup" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sbf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-formGroupName" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="sbfb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngIf" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="aop" />
-          <option name="key" value="aopautoproxycreator" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngIfElse" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="aop" />
-          <option name="key" value="aopautoproxy" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngModel" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="hibernatefactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-routerLink" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="datasource" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-routerLink-param" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="hibernatetm" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-select" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="transactionmanager" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngStyle" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jndids" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ngSwitch" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdopmf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-preja" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdopmfproxy" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-prej" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdotm" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-style" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpoxpmf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-404" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinklsf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-activate" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinktasa" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-activate-child" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="toplinktm" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-deactivate" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ibatisfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-guard-can-load" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpaemfb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpacemf" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component-inline" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapum" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-preload-strategy" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapabpp" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-default" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpapetpp" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-directive" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jpatm" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-eager" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="intscheduler" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-service-httpclient" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="crontrigger" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="scedulerfactorybean" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor-headers" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="simpletrigger" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-http-interceptor-logging" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdkscheduledtimertask" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-lazy" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="jdktimerfactorybean" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ejblssb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-ctor-skip-self" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="ejbrssb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-pipe" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="freemarker" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-component-root" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="placeholder" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-root" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="propertyoverrideconfigurer" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-path-with-children" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="resourcefb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-router-events" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="commonslogfb" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-module-routing" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="fieldretrfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-service" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="listfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-httpclient-get" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mapfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-output-event" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="proprsfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-route-params-subscribe" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="setfactory" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-rxjs-import" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowregistry" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-rxjs-operator-import" />
         </TemplateKey>
         <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowexecutor" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowbuildersevices" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="conversationservice" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="expressionparser" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="factorycreator" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring webflow" />
-          <option name="key" value="webflowexelistener" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleservice" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgimultiservice" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleref" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgimultiref" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgibeannameref" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgirefwithlistener" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimplelist" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisimpleset" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgilistwithcomp" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Spring Dynamic Modules" />
-          <option name="key" value="osgisetwithcomparator" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadEndpoint" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="payloadMapping" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mapBasedEndpointMapping" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="annotationEndpointMapping" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="simpleWsdlDefinition" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchema" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="wsdlDefinitionWithSchemaCollection" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="xsdSchema" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="commonsXsdSchemaCollection" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageFactory" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="soapMessageDispatcher" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListenerContainer" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="messageListener" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="connectionFactory" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="mailMessageReceiver" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="spring" />
-          <option name="key" value="httpServerFactoryBean" />
-        </TemplateKey>
-        <TemplateKey>
-          <option name="groupName" value="Android" />
-          <option name="key" value="fbc" />
+          <option name="groupName" value="Angular" />
+          <option name="key" value="a-subscribe" />
         </TemplateKey>
       </list>
     </option>
