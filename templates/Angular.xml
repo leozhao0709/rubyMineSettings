@@ -69,7 +69,6 @@
     <variable name="templateName" expression="" defaultValue="&quot;templateName&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
-      <option name="HTML_TEXT" value="false" />
     </context>
   </template>
   <template name="ngmodel" value="[(ngModel)]=&quot;$binding$&quot;" description="Angular ngModel" toReformat="true" toShortenFQNames="true">
