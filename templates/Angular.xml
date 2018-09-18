@@ -64,15 +64,6 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
-  <template name="&lt;ngIf-else" value="&lt;ng-container *ngIf=&quot;$expression$;else $templateName$&quot;&gt;&#10;    $ifContainer$&#10;&lt;/ng-container&gt;&#10;&lt;ng-template #$templateName$&gt;&#10;    $elseContainer$&#10;&lt;/ng-template&gt;" description="Angular *ngIfElse" toReformat="true" toShortenFQNames="true">
-    <variable name="expression" expression="" defaultValue="&quot;expression&quot;" alwaysStopAt="true" />
-    <variable name="templateName" expression="" defaultValue="&quot;templateName&quot;" alwaysStopAt="true" />
-    <variable name="ifContainer" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="elseContainer" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
   <template name="ngmodel" value="[(ngModel)]=&quot;$binding$&quot;" description="Angular ngModel" toReformat="true" toShortenFQNames="true">
     <variable name="binding" expression="" defaultValue="&quot;binding&quot;" alwaysStopAt="true" />
     <context>
@@ -340,6 +331,14 @@
   <template name="ngcontainer" value="&lt;ng-container&gt;&#10;    $END$&#10;&lt;/ng-container&gt;" description="ng container" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ngstyle" value="[ngStyle]=&quot;{$style$: $expression$}&quot;" description="Angular ngStyle" toReformat="true" toShortenFQNames="true">
+    <variable name="style" expression="" defaultValue="&quot;style&quot;" alwaysStopAt="true" />
+    <variable name="expression" expression="" defaultValue="&quot;expression&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
     </context>
   </template>
 </templateSet>
