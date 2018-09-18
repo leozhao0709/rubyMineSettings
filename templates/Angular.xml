@@ -341,4 +341,14 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
+  <template name="ngif-else" value="&lt;ng-container *ngIf=&quot;$expression$;else $TEMPLATENAME$&quot;&gt;&#10;    $1$&#10;&lt;/ng-container&gt;&#10;&lt;ng-template #$TEMPLATENAME$&gt;&#10;    $2$&#10;&lt;/ng-template&gt;" description="Angular *ngIf" toReformat="true" toShortenFQNames="true">
+    <variable name="expression" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEMPLATENAME" expression="" defaultValue="&quot;elseTemplateName&quot;" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="HTML_TEXT" value="false" />
+    </context>
+  </template>
 </templateSet>
