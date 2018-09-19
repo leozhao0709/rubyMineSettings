@@ -178,9 +178,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ngroutepath-component" value="{ path: '$path$', component: $Name$Component }," description="Angular eager route path" toReformat="true" toShortenFQNames="true">
+  <template name="ngroutepath-component" value="{ path: '$path$', component: $Component$ }," description="Angular eager route path" toReformat="true" toShortenFQNames="true">
     <variable name="path" expression="" defaultValue="&quot;path&quot;" alwaysStopAt="true" />
-    <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
+    <variable name="Component" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
     </context>
