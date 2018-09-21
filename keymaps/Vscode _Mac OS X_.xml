@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByBlockComment">
@@ -110,12 +114,18 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="KotlinShellExecute" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
