@@ -350,4 +350,10 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
+  <template name="ngsubmit" value="(submit)=&quot;$SUBMIT$&quot;" description="angular form submit" toReformat="true" toShortenFQNames="true">
+    <variable name="SUBMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
