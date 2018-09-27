@@ -39,7 +39,7 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
-  <template name="ngformControlName" value="formControlName=&quot;$control$&quot;" description="Angular formControlName" toReformat="true" toShortenFQNames="true">
+  <template name="ngformControlName" value="[formControlName]=&quot;'$control$'&quot;" description="Angular formControlName" toReformat="true" toShortenFQNames="true">
     <variable name="control" expression="" defaultValue="&quot;control&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -51,7 +51,7 @@
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="ngformGroupName" value="[formGroupName]=&quot;$name$&quot;" description="Angular formGroupName" toReformat="true" toShortenFQNames="true">
+  <template name="ngformGroupName" value="[formGroupName]=&quot;'$name$'&quot;" description="Angular formGroupName" toReformat="true" toShortenFQNames="true">
     <variable name="name" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -348,6 +348,24 @@
     <context>
       <option name="HTML" value="true" />
       <option name="HTML_TEXT" value="false" />
+    </context>
+  </template>
+  <template name="ngsubmit" value="(submit)=&quot;$SUBMIT$&quot;" description="angular form submit" toReformat="true" toShortenFQNames="true">
+    <variable name="SUBMIT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ngformControl" value="[formControl]=&quot;$control$&quot;" description="Angular formControl" toReformat="true" toShortenFQNames="true">
+    <variable name="control" expression="" defaultValue="&quot;control&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ngformArrayName" value="[formArrayName]=&quot;'$array$'&quot;" description="Angular formArrayName" toReformat="true" toShortenFQNames="true">
+    <variable name="array" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
     </context>
   </template>
 </templateSet>
