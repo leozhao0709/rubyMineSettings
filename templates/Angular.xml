@@ -356,4 +356,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="ngformControl" value="[formControl]=&quot;$control$&quot;" description="Angular formControl" toReformat="true" toShortenFQNames="true">
+    <variable name="control" expression="" defaultValue="&quot;control&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
