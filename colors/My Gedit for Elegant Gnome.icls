@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-09-16T19:41:35</property>
+    <property name="modified">2018-11-28T22:40:57</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -65,7 +65,6 @@
       <value>
         <option name="FOREGROUND" value="ffa800" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="ffa800" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -83,7 +82,6 @@
       <value>
         <option name="FOREGROUND" value="ffcd66" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcd66" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
