@@ -134,7 +134,8 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="Run">
+  <action id="Run" />
+  <action id="RunClass">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
