@@ -125,6 +125,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
