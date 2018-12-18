@@ -101,6 +101,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -124,6 +125,10 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
@@ -136,6 +141,9 @@
   <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunToCursor" />
   <action id="SearchEverywhere">
