@@ -6,4 +6,9 @@
       <option name="XML_TEXT" value="true" />
     </context>
   </template>
+  <template name="thymeleaf" value="xmlns:th=&quot;http://www.thymeleaf.org&quot;" description="thymeleaf namespace" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
