@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-07-31T23:00:55</property>
+    <property name="modified">2019-08-01T11:00:34</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -725,6 +725,12 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
+    <option name="RUBY_HASH_KEY">
+      <value>
+        <option name="FOREGROUND" value="bfa4a4" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="RUBY_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="e4bf7f" />
@@ -735,7 +741,7 @@
     </option>
     <option name="RUBY_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="d7707a" />
+        <option name="FOREGROUND" value="e4bf7f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -760,6 +766,12 @@
     <option name="RUBY_NTH_REF">
       <value>
         <option name="FOREGROUND" value="e4bf7f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="d7707a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
