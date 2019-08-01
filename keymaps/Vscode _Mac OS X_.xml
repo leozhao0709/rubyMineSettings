@@ -143,6 +143,9 @@
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RunClass">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunToCursor" />
@@ -194,4 +197,5 @@
   <action id="Vcs.Push" />
   <action id="ViewSource" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
