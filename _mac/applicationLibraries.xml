@@ -2846,6 +2846,44 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.1/yardoc" />
       </excluded>
     </library>
+    <library name="solargraph (v0.35.2, rbenv: 2.5.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </excluded>
+    </library>
+    <library name="solargraph (v0.35.2, RVM: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/solargraph-0.35.2/yardoc" />
+      </excluded>
+    </library>
     <library name="test-unit (v3.2.9, RVM: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
