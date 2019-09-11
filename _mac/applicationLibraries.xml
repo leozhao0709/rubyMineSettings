@@ -1194,25 +1194,22 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/patches" />
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ext" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/ports" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.3/gems/nokogiri-1.10.4/patches" />
       </excluded>
     </library>
