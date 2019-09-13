@@ -589,6 +589,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-111191fac273/config" />
       </excluded>
     </library>
+    <library name="avalanche (v1.8.0@7936a2, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-7936a20e1dad/config" />
+      </excluded>
+    </library>
     <library name="awesome_nested_set (v3.1.3, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3048,6 +3076,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-25ab84e91533/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-25ab84e91533/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-25ab84e91533/spec" />
+      </excluded>
+    </library>
+    <library name="cpsubs (v1.0.1@6e425a, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/cpsubs-ruby-6e425a72e30b/spec" />
       </excluded>
     </library>
     <library name="crack (v0.4.3, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -6345,6 +6397,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/ports" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.3/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.4, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.10.4" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogiri-1.10.4/patches" />
       </excluded>
     </library>
     <library name="nokogumbo (v1.5.0, rbenv: 2.5.5) [gem]" type="rubylib">
