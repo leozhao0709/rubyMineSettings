@@ -14,7 +14,15 @@
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="DatabaseView.ShowDiff" />
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="meta f6" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
@@ -48,7 +56,6 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="EditorJoinLines">
@@ -131,9 +138,23 @@
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NewScratchFile" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="meta f6" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta f6" />
   </action>
   <action id="Print" />
   <action id="ReformatCode">
@@ -167,8 +188,11 @@
     <keyboard-shortcut first-keystroke="shift alt space" />
     <keyboard-shortcut first-keystroke="meta period" />
   </action>
-  <action id="SplitVertically">
+  <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
