@@ -123,6 +123,9 @@
   <action id="GotoRow" />
   <action id="GuiDesigner.GoToListener" />
   <action id="IncrementalSearch" />
+  <action id="InsertRubyInjection">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="KotlinShellExecute" />
