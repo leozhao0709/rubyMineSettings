@@ -3,8 +3,11 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js, *.jsx" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.rake</mask>
@@ -15,5 +18,6 @@
     <mask>*.jbuilder</mask>
     <mask>*.rb</mask>
     <mask>*.css</mask>
+    <mask>*.js, *.jsx</mask>
   </component>
 </application>
