@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-05T15:17:46</property>
+    <property name="modified">2019-10-05T16:32:05</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -334,7 +334,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="dc68f4" />
+        <option name="FOREGROUND" value="f99326" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

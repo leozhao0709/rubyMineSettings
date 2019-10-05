@@ -11,8 +11,12 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jpa.GenerateSql" />
+  <action id="Console.Oracle.DbmsOutput" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.ShowDiff" />
@@ -136,8 +140,7 @@
   </action>
   <action id="Print" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt f" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
@@ -181,6 +184,7 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="TestData.Navigate" />
+  <action id="ToggleLineBreakpoint" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
