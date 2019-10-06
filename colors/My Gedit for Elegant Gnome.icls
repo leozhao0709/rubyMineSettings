@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-05T16:32:05</property>
+    <property name="modified">2019-10-06T13:38:17</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -305,7 +305,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="729fcf" />
+        <option name="FOREGROUND" value="d9555d" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -322,7 +322,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ffcd66" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
@@ -357,7 +357,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="adeda3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
