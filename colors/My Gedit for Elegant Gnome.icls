@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-06T14:36:56</property>
+    <property name="modified">2019-10-06T14:41:17</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -289,13 +289,13 @@
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="e4bf7f" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="bed6ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -764,7 +764,7 @@
     <option name="RUBY_HASH_KEY">
       <value>
         <option name="FOREGROUND" value="bfa4a4" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_HEREDOC_ID">
@@ -818,7 +818,7 @@
     </option>
     <option name="RUBY_PARAMETER_ID">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="d9555d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -934,12 +934,6 @@
     <option name="TS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d9555d" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="TS.INSTANCE_MEMBER_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="489aee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
