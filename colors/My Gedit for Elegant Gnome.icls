@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-06T15:02:16</property>
+    <property name="modified">2019-10-06T15:11:15</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -334,7 +334,7 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="84b1e1" />
+        <option name="FOREGROUND" value="d9555d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -346,7 +346,7 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="d19a66" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -544,7 +544,7 @@
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="efc090" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.DECORATOR">
@@ -653,12 +653,6 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value>
         <option name="FOREGROUND" value="d9555d" />
-      </value>
-    </option>
-    <option name="LOCAL_VARIABLE_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="d99dbc" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
@@ -770,7 +764,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="ffcd66" />
         <option name="BACKGROUND" value="2c3034" />
         <option name="FONT_TYPE" value="1" />
       </value>
