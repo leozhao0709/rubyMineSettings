@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2019-10-06T14:22:07</property>
+    <property name="modified">2019-10-06T14:22:36</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -789,13 +789,13 @@
     <option name="RUBY_LOCAL_VAR_ID">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="2db3ff" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_NTH_REF">
@@ -819,7 +819,7 @@
     <option name="RUBY_PARAMETER_ID">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="RUBY_REGEXP">
