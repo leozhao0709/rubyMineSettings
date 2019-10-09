@@ -82,7 +82,7 @@
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorScrollUp">
+  <action id="EditorScrollTop">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorSelectLine">
