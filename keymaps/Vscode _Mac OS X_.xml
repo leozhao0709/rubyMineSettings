@@ -71,6 +71,12 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl down" />
@@ -78,12 +84,6 @@
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="ctrl up" />
-  </action>
-  <action id="EditorScrollBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
@@ -186,12 +186,6 @@
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
-  </action>
-  <action id="SearchEverywhere.NavigateToNextGroup">
-    <keyboard-shortcut first-keystroke="page_down" />
-  </action>
-  <action id="SearchEverywhere.NavigateToPrevGroup">
-    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl 0" />
