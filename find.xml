@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*_spec.rb, !*.yml" />
+    <option name="FILE_MASK" value="!*_spec.rb, !*.yml, *.haml, *.erb" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.rake</mask>
@@ -23,5 +23,7 @@
     <mask>!*.yml</mask>
     <mask>*.erb, *.haml</mask>
     <mask>!*_spec.rb, !*.yml</mask>
+    <mask>!*_spec.rb, !*.yml, *.haml</mask>
+    <mask>!*_spec.rb, !*.yml, *.haml, *.erb</mask>
   </component>
 </application>
