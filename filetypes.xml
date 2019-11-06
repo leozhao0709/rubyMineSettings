@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Profile" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
