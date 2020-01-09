@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*_spec.rb, !*.yml, **.css" />
+    <option name="FILE_MASK" value="!*_spec.rb, !*.yml, !*.css" />
     <mask>*.xml</mask>
     <mask>*.rake</mask>
     <mask>*.ru</mask>
@@ -30,10 +30,10 @@
     <mask>!*_spec.rb, !*.yml, *.rb</mask>
     <mask>!*_spec.rb, !*.yml, *.less</mask>
     <mask>!*_spec.rb, !*.yml,</mask>
-    <mask>!*_spec.rb, !*.yml, !*.css</mask>
     <mask>!*_spec.rb, !*.yml, !*.less, *.js.*</mask>
     <mask>!*_spec.rb, !*.yml, !*.less, **.js</mask>
     <mask>!*_spec.rb, !*.yml, !*.less</mask>
     <mask>!*_spec.rb, !*.yml, **.css</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css</mask>
   </component>
 </application>
