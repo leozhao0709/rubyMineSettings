@@ -165,9 +165,7 @@
     <keyboard-shortcut first-keystroke="shift meta f6" />
   </action>
   <action id="Print" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta b" />
-  </action>
+  <action id="ReformatCode" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
