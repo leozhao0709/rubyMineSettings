@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-01-26T17:10:46</property>
+    <property name="modified">2020-01-26T21:02:58</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -271,13 +271,13 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="51b6c3" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="489aef" />
+        <option name="FOREGROUND" value="50aef2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -301,7 +301,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="489aef" />
+        <option name="FOREGROUND" value="5baef2" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -352,11 +352,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="ffcd66" />
-      </value>
-    </option>
+    <option name="DEFAULT_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
@@ -395,7 +391,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="bed6ff" />
+        <option name="FOREGROUND" value="5baef2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
