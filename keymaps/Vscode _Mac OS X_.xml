@@ -137,6 +137,9 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="KotlinShellExecute" />
+  <action id="Macro.autoRebuild">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="MethodHierarchy.BaseOnThisType" />
   <action id="MoveLineDown">
@@ -180,6 +183,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
