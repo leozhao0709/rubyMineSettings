@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-01-26T21:02:58</property>
+    <property name="modified">2020-03-15T13:23:19</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -573,6 +573,17 @@
       <value>
         <option name="FOREGROUND" value="81b35f" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="d96571" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="KDOC_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="dc68f4" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION">
