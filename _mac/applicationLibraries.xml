@@ -1318,6 +1318,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-bb1309c951da/config" />
       </excluded>
     </library>
+    <library name="avalanche (v1.9.4@edb72a, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/config" />
+      </excluded>
+    </library>
     <library name="avro (v1.9.1, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3252,6 +3280,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/Birst_Command-237d6f2c455b/.bundle" />
       </excluded>
     </library>
+    <library name="blackcurrant (v0.0.10@0e0f11, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-0e0f111bfe3d/config" />
+      </excluded>
+    </library>
     <library name="blackcurrant (v0.0.6@a855e5, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4296,6 +4346,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/coupa_console_logger/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/coupa_console_logger/test" />
+      </excluded>
+    </library>
+    <library name="coupa_console_logger (v0.1.0@249c6e, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/coupa_console_logger/test" />
       </excluded>
     </library>
     <library name="coupa_console_logger (v0.1.0@5d6cbb, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -6166,6 +6235,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/gem_template/spec" />
+      </excluded>
+    </library>
+    <library name="gem_template (v0.1.0@249c6e, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/gem_template/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/gem_template/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/gem_template/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/gem_template/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/gem_template/spec" />
       </excluded>
     </library>
     <library name="gem_template (v0.1.0@38d396, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -8129,6 +8214,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-b9804afdf1be/.git" />
       </excluded>
     </library>
+    <library name="klosetd-binary (v1.0.189@94c614, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/.git" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/.git" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/klosetd-binary-94c6144fe6f2/.git" />
+      </excluded>
+    </library>
     <library name="klosetd-binary (v2.1.164@47eff9, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8675,6 +8777,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/maybe_migrate/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/maybe_migrate/test" />
+      </excluded>
+    </library>
+    <library name="maybe_migrate (v0.1.0@249c6e, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/maybe_migrate/test" />
       </excluded>
     </library>
     <library name="maybe_migrate (v0.1.0@38d396, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -9809,11 +9930,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogumbo/2.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/gumbo-parser" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogumbo/2.0.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/nokogumbo-2.0.1/gumbo-parser" />
@@ -13064,6 +13187,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-248d8f65671d/rubocop-coupa/config" />
       </excluded>
     </library>
+    <library name="rubocop-coupa (v0.1.0@249c6e, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/coupa_common_ruby-249c6e330130/rubocop-coupa/config" />
+      </excluded>
+    </library>
     <library name="rubocop-coupa (v0.1.0@38d396, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -13642,6 +13787,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-da0c645897d0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-da0c645897d0/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-da0c645897d0/spec" />
+      </excluded>
+    </library>
+    <library name="sand (v1.3.3@656610, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/sand-ruby-656610ca28bb/spec" />
       </excluded>
     </library>
     <library name="sanitize (v4.6.4, rbenv: 2.5.5) [gem]" type="rubylib">
