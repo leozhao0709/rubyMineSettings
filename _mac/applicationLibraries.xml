@@ -1374,6 +1374,34 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-edb72aff7420/config" />
       </excluded>
     </library>
+    <library name="avalanche (v1.9.5@009d43, rbenv: 2.5.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-009d43cda3df/config" />
+      </excluded>
+    </library>
     <library name="avro (v1.9.1, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
