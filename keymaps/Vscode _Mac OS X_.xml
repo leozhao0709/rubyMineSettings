@@ -3,7 +3,12 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="meta alt slash" />
@@ -11,13 +16,9 @@
   <action id="CompareDirs" />
   <action id="CompareJars" />
   <action id="CompareTwoFiles" />
-  <action id="CompileDirty" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jpa.GenerateSql" />
-  <action id="Console.Oracle.DbmsOutput" />
   <action id="Console.TableResult.DeleteRows" />
-  <action id="Console.TableResult.NextPage" />
-  <action id="Console.TableResult.PreviousPage" />
   <action id="DatabaseView.ShowDiff" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="meta f6" />
@@ -74,12 +75,6 @@
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
-  <action id="EditorScrollBottom">
-    <keyboard-shortcut first-keystroke="meta down" />
-  </action>
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -108,19 +103,15 @@
   </action>
   <action id="FindNext" />
   <action id="FindPrevious" />
-  <action id="GoToMenu">
-    <keyboard-shortcut first-keystroke="meta g" />
-  </action>
   <action id="GotoBookmark0" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
-  <action id="GotoFile" />
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
-  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="GotoRelated" />
   <action id="GotoRow" />
   <action id="GuiDesigner.GoToListener" />
@@ -129,20 +120,21 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="IncrementalSearch" />
-  <action id="InsertRubyInjection">
-    <keyboard-shortcut first-keystroke="shift meta equals" />
-  </action>
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="KotlinShellExecute" />
-  <action id="MethodHierarchy" />
-  <action id="MethodHierarchy.BaseOnThisType" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
+    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
+    <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
@@ -155,7 +147,6 @@
     <keyboard-shortcut first-keystroke="meta f6" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="PrevSplitter">
@@ -167,32 +158,17 @@
   </action>
   <action id="Print" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta b" />
-  </action>
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="meta b" />
+    <keyboard-shortcut first-keystroke="meta alt f" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
   <action id="RunToCursor" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta t" />
-  </action>
-  <action id="SearchEverywhere.NavigateToNextGroup">
-    <keyboard-shortcut first-keystroke="page_down" />
-  </action>
-  <action id="SearchEverywhere.NavigateToPrevGroup">
-    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="ctrl 0" />
@@ -203,8 +179,7 @@
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift alt space" />
-    <keyboard-shortcut first-keystroke="meta period" />
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
@@ -229,10 +204,6 @@
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="TestData.Navigate" />
-  <action id="ToggleLineBreakpoint" />
-  <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="shift meta h" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Exclude">
     <keyboard-shortcut first-keystroke="delete" />
@@ -240,8 +211,6 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Push" />
-  <action id="Vcs.ReformatCommitMessage" />
   <action id="ViewSource" />
   <action id="openAssertEqualsDiff" />
-  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
