@@ -5,36 +5,5 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*_spec.rb, !*.yml, !*.css" />
-    <mask>*.xml</mask>
-    <mask>*.rake</mask>
-    <mask>*.ru</mask>
-    <mask>*.thor</mask>
-    <mask>*.gemspec</mask>
-    <mask>*.rbw</mask>
-    <mask>*.jbuilder</mask>
-    <mask>*.rb</mask>
-    <mask>*.css</mask>
-    <mask>*.js, *.jsx</mask>
-    <mask>*.erb</mask>
-    <mask>!*.yml, !**/spec/**</mask>
-    <mask>!*.yml</mask>
-    <mask>*.erb, *.haml</mask>
-    <mask>!*_spec.rb, !*.yml, *.haml</mask>
-    <mask>!*_spec.rb, !*.yml, *.haml, *.erb</mask>
-    <mask>!*_spec.rb, !*.yml, *.jsx</mask>
-    <mask>!*_spec.rb, !*.yml, *.css</mask>
-    <mask>!*_spec.rb, !*.yml, **.less</mask>
-    <mask>!*_spec.rb, !*.yml, **.rb</mask>
-    <mask>!*_spec.rb, !*.yml</mask>
-    <mask>!*_spec.rb, !*.yml, *.rb</mask>
-    <mask>!*_spec.rb, !*.yml, *.less</mask>
-    <mask>!*_spec.rb, !*.yml,</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less, *.js.*</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less, **.js</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less</mask>
-    <mask>!*_spec.rb, !*.yml, **.css</mask>
-    <mask>*.yml</mask>
-    <mask>!*_spec.rb, !*.yml, !*.css</mask>
   </component>
 </application>
