@@ -1263,34 +1263,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-36429134cfc8/config" />
       </excluded>
     </library>
-    <library name="avalanche (v1.9.10@ceae1e, rbenv: 2.5.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/doc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/doc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/config" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/doc" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/avalanche-ceae1eb135d1/config" />
-      </excluded>
-    </library>
     <library name="avalanche (v1.9.8@0cf6f3, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3284,31 +3256,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/Birst_Command-237d6f2c455b/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/Birst_Command-237d6f2c455b/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/Birst_Command-237d6f2c455b/.bundle" />
-      </excluded>
-    </library>
-    <library name="blackcurrant (v0.0.10@a1b140, rbenv: 2.5.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/config" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/script" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/config" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/script" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/spec" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/config" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/blackcurrant-a1b14011ec38/script" />
       </excluded>
     </library>
     <library name="blackcurrant (v0.0.9@4a6bd3, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -7552,28 +7499,6 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-adee9e4eccdb/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-adee9e4eccdb/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-adee9e4eccdb/spec" />
-      </excluded>
-    </library>
-    <library name="imagica (v1.2.5@d5a589, rbenv: 2.5.5) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/spec" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/lib" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/spec" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/bin" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/.git" />
-        <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/imagica-ruby-d5a589d45488/spec" />
       </excluded>
     </library>
     <library name="inflecto (v0.0.2, rbenv: 2.5.5) [gem]" type="rubylib">
