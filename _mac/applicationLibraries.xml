@@ -23681,6 +23681,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/bundler/gems/serialized_attr_encrypted-f62ad5f10d23/spec" />
       </excluded>
     </library>
+    <library name="serialized_attr_encrypted (v1.2.4@6dbcc2, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/serialized_attr_encrypted-6dbcc2d3d58c/spec" />
+      </excluded>
+    </library>
     <library name="sexp_processor (v4.11.0, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
