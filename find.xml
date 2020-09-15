@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ru</mask>
+    <option name="FILE_MASK" value="!*.feature" />
     <mask>*.thor</mask>
     <mask>*.gemspec</mask>
     <mask>*.rbw</mask>
@@ -37,5 +37,6 @@
     <mask>!*.yml, !*.css</mask>
     <mask>!*_spec.rb, !*.yml, !*.css</mask>
     <mask>!*_spec.rb, !*.yml, !*.css, !*.less</mask>
+    <mask>!*.feature</mask>
   </component>
 </application>
