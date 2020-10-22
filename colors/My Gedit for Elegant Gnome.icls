@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-21T21:38:35</property>
+    <property name="modified">2020-10-21T21:44:51</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -655,7 +655,7 @@
     </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="e6c880" />
+        <option name="FOREGROUND" value="d3a56c" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
@@ -681,7 +681,7 @@
     </option>
     <option name="OC.PROTOCOL_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="e6c880" />
+        <option name="FOREGROUND" value="d3a56c" />
       </value>
     </option>
     <option name="OC.STRUCT_FIELD">
@@ -696,7 +696,7 @@
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="e6c880" />
+        <option name="FOREGROUND" value="d3a56c" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
