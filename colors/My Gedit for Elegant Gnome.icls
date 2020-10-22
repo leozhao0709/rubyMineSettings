@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-21T21:33:29</property>
+    <property name="modified">2020-10-21T21:38:35</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -339,7 +339,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="afb5c2" />
+        <option name="FOREGROUND" value="888a85" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -554,6 +554,18 @@
         <option name="BACKGROUND" value="adeda3" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="ede9b9" />
+        <option name="BACKGROUND" value="adeda3" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="ede9b9" />
+        <option name="BACKGROUND" value="adeda3" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bed6ff" />
@@ -659,7 +671,7 @@
     </option>
     <option name="OC.MESSAGE_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="dd7875" />
+        <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
     <option name="OC.METHOD_DECLARATION">
@@ -896,7 +908,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d6767d" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="BACKGROUND" value="2c3034" />
         <option name="FONT_TYPE" value="1" />
       </value>
