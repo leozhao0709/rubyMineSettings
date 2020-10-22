@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-21T21:44:51</property>
+    <property name="modified">2020-10-22T10:58:41</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -363,7 +363,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="3fa3b3" />
+        <option name="FOREGROUND" value="cb7ea4" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -655,7 +655,7 @@
     </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
@@ -681,22 +681,22 @@
     </option>
     <option name="OC.PROTOCOL_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="PARAMETER_ATTRIBUTES">
@@ -908,7 +908,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="e06c75" />
+        <option name="FOREGROUND" value="b58d69" />
         <option name="BACKGROUND" value="2c3034" />
         <option name="FONT_TYPE" value="1" />
       </value>
