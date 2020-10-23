@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-22T11:36:27</property>
+    <property name="modified">2020-10-22T20:36:13</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -837,7 +837,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="81b35f" />
@@ -909,7 +908,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="b58d69" />
+        <option name="FOREGROUND" value="dbb183" />
         <option name="BACKGROUND" value="2c3034" />
         <option name="FONT_TYPE" value="1" />
       </value>
