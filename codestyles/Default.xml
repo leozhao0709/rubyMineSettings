@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <SwiftCodeStyleSettings>
+    <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
+  </SwiftCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -10,7 +13,6 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="ruby">

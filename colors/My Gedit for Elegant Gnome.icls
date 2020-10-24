@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2020-10-23T16:58:37</property>
+    <property name="modified">2020-10-23T21:12:53</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -27,7 +27,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="353535" />
-    <option name="INDENT_GUIDE" value="888a85" />
+    <option name="INDENT_GUIDE" value="444952" />
     <option name="LINE_NUMBERS_COLOR" value="555753" />
     <option name="METHOD_SEPARATORS_COLOR" value="555753" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -38,6 +38,7 @@
     <option name="SELECTION_BACKGROUND" value="434c5a" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555753" />
+    <option name="VISUAL_INDENT_GUIDE" value="3c5dae" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
