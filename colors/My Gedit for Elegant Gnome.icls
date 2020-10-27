@@ -27,7 +27,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="353535" />
-    <option name="INDENT_GUIDE" value="888a85" />
+    <option name="INDENT_GUIDE" value="444952" />
     <option name="LINE_NUMBERS_COLOR" value="555753" />
     <option name="METHOD_SEPARATORS_COLOR" value="555753" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -38,6 +38,7 @@
     <option name="SELECTION_BACKGROUND" value="434c5a" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="555753" />
+    <option name="VISUAL_INDENT_GUIDE" value="3c5dae" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -265,13 +266,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="dc68f4" />
-      </value>
-    </option>
-    <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
-      <value>
-        <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="888a85" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
@@ -293,7 +288,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="57adf5" />
+        <option name="FOREGROUND" value="ffcd66" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -310,7 +305,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="57adf5" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -357,13 +352,13 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="57adf5" />
+        <option name="FOREGROUND" value="dd7880" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="d3a56c" />
+        <option name="FOREGROUND" value="e06c75" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -590,21 +585,15 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.EXPORTED.FUNCTION">
+    <option name="JS.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="57adf5" />
+        <option name="FOREGROUND" value="489aee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="57adf5" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_NAME">
       <value>
@@ -613,12 +602,6 @@
       </value>
     </option>
     <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="JS.PRIMITIVE.TYPE">
-      <value>
-        <option name="FOREGROUND" value="ffcd66" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="63ad8b" />
@@ -855,7 +838,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="RUBY_PARAMETER_ID" baseAttributes="DEFAULT_PARAMETER" />
     <option name="RUBY_REGEXP">
       <value>
         <option name="FOREGROUND" value="81b35f" />
