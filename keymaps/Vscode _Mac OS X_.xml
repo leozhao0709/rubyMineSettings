@@ -34,6 +34,9 @@
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+  </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
   </action>
@@ -59,6 +62,9 @@
   </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift meta equals" />
   </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
