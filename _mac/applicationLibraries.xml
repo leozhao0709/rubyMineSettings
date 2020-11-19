@@ -2648,6 +2648,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/akami-1.3.1/spec" />
       </excluded>
     </library>
+    <library name="algoliasearch (v1.27.5, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/algoliasearch-1.27.5/resources" />
+      </excluded>
+    </library>
     <library name="algoliasearch (v1.27.5, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3169,6 +3188,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/ast-2.4.1/lib" />
       </SOURCES>
+    </library>
+    <library name="atomos (v0.1.3, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/atomos-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/atomos-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/atomos-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/atomos-0.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/atomos-0.1.3/bin" />
+      </excluded>
     </library>
     <library name="atomos (v0.1.3, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
@@ -12592,6 +12627,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/ci_reporter-1.9.3/acceptance" />
       </excluded>
     </library>
+    <library name="claide (v1.0.3, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/claide-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/claide-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="claide (v1.0.3, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12756,6 +12802,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/cocaine-0.5.8/spec" />
       </excluded>
     </library>
+    <library name="cocoapods (v1.10.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/bin" />
+      </excluded>
+    </library>
     <library name="cocoapods (v1.10.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12772,6 +12834,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-1.10.0/bin" />
       </excluded>
     </library>
+    <library name="cocoapods-core (v1.10.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-core-1.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-core-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cocoapods-core (v1.10.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12781,6 +12854,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-core-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-deintegrate (v1.0.4, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-deintegrate-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-deintegrate-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="cocoapods-deintegrate (v1.0.4, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -12794,6 +12878,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-deintegrate-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="cocoapods-downloader (v1.4.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-downloader-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-downloader-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cocoapods-downloader (v1.4.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12804,6 +12899,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-downloader-1.4.0/lib" />
       </SOURCES>
+    </library>
+    <library name="cocoapods-plugins (v1.0.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/spec" />
+      </excluded>
     </library>
     <library name="cocoapods-plugins (v1.0.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
@@ -12819,6 +12930,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-plugins-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-search (v1.0.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-search (v1.0.0, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -12837,6 +12964,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-search-1.0.0/spec" />
       </excluded>
     </library>
+    <library name="cocoapods-trunk (v1.5.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/spec" />
+      </excluded>
+    </library>
     <library name="cocoapods-trunk (v1.5.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12851,6 +12994,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-trunk-1.5.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-try (v1.2.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-try-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-try-1.2.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-try-1.2.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-try-1.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/cocoapods-try-1.2.0/spec" />
       </excluded>
     </library>
     <library name="cocoapods-try (v1.2.0, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -13245,6 +13404,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/color-1.8/test" />
+      </excluded>
+    </library>
+    <library name="colored2 (v3.1.2, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/colored2-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/colored2-3.1.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/colored2-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/colored2-3.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/colored2-3.1.2/spec" />
       </excluded>
     </library>
     <library name="colored2 (v3.1.2, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -17913,6 +18088,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="escape (v0.0.4, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/escape-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/escape-0.0.4/doc_include" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/escape-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/escape-0.0.4/doc_include" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/escape-0.0.4/doc_include" />
+      </excluded>
+    </library>
     <library name="escape (v0.0.4, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -17961,6 +18152,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/et-orbi-1.1.1/lib" />
       </SOURCES>
+    </library>
+    <library name="ethon (v0.12.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/profile" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ethon-0.12.0/profile" />
+      </excluded>
     </library>
     <library name="ethon (v0.12.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
@@ -19790,6 +20000,22 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="fourflusher (v2.3.1, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/bin" />
+      </excluded>
+    </library>
     <library name="fourflusher (v2.3.1, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -19804,6 +20030,28 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fourflusher-2.3.1/bin" />
+      </excluded>
+    </library>
+    <library name="fuzzy_match (v2.0.4, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/fuzzy_match-2.0.4/benchmark" />
       </excluded>
     </library>
     <library name="fuzzy_match (v2.0.4, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -20000,6 +20248,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="gh_inspector (v1.1.3, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/gh_inspector-1.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/gh_inspector-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/gh_inspector-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/gh_inspector-1.1.3/bin" />
+      </excluded>
     </library>
     <library name="gh_inspector (v1.1.3, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
@@ -22663,6 +22927,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/httpclient-2.7.2/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/httpclient-2.7.2/test" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/httpclient-2.7.2/sample" />
+      </excluded>
+    </library>
+    <library name="httpclient (v2.8.3, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/httpclient-2.8.3/sample" />
       </excluded>
     </library>
     <library name="httpclient (v2.8.3, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -28614,6 +28900,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/minizinc-ruby-913aff749c81/spec" />
       </excluded>
     </library>
+    <library name="molinillo (v0.6.6, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/molinillo-0.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/molinillo-0.6.6/lib" />
+      </SOURCES>
+    </library>
     <library name="molinillo (v0.6.6, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29566,6 +29863,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/mysql2-ca08712c6c8e/benchmark" />
       </excluded>
     </library>
+    <library name="nanaimo (v0.3.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/bin" />
+      </excluded>
+    </library>
     <library name="nanaimo (v0.3.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -29580,6 +29893,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nanaimo-0.3.0/bin" />
+      </excluded>
+    </library>
+    <library name="nap (v1.1.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nap-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nap-1.1.0/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nap-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nap-1.1.0/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/nap-1.1.0/support" />
       </excluded>
     </library>
     <library name="nap (v1.1.0, ruby-2.7.1-p83) [gem]" type="rubylib">
@@ -40613,6 +40942,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/ruby-kafka-0.7.6/benchmarks" />
       </excluded>
     </library>
+    <library name="ruby-macho (v1.4.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ruby-macho-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/ruby-macho-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-macho (v1.4.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -47352,6 +47692,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/twitter4r-c5a21a4a2efd/examples" />
       </excluded>
     </library>
+    <library name="typhoeus (v1.4.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/perf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/typhoeus-1.4.0/spec" />
+      </excluded>
+    </library>
     <library name="typhoeus (v1.4.0, ruby-2.7.1-p83) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -50157,6 +50516,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/wkhtmltopdf-binary-0.12.3/bin" />
+      </excluded>
+    </library>
+    <library name="xcodeproj (v1.19.0, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/xcodeproj-1.19.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/xcodeproj-1.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/xcodeproj-1.19.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/xcodeproj-1.19.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.7.0/gems/xcodeproj-1.19.0/bin" />
       </excluded>
     </library>
     <library name="xcodeproj (v1.19.0, ruby-2.7.1-p83) [gem]" type="rubylib">
