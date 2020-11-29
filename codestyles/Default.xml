@@ -1,7 +1,7 @@
 <code_scheme name="Default" version="173">
-  <JetCodeStyleSettings>
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
-  </JetCodeStyleSettings>
+  <SwiftCodeStyleSettings>
+    <option name="INDENT_DIRECTIVE_CHILDREN" value="true" />
+  </SwiftCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -9,7 +9,14 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
-  <codeStyleSettings language="kotlin">
-    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  <codeStyleSettings language="Swift">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
