@@ -3,35 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.thor</mask>
-    <mask>*.gemspec</mask>
-    <mask>*.rbw</mask>
-    <mask>*.jbuilder</mask>
-    <mask>*.rb</mask>
-    <mask>*.css</mask>
-    <mask>*.js, *.jsx</mask>
-    <mask>*.erb</mask>
-    <mask>!*.yml, !**/spec/**</mask>
-    <mask>!*.yml</mask>
-    <mask>*.erb, *.haml</mask>
-    <mask>!*_spec.rb, !*.yml, *.haml</mask>
-    <mask>!*_spec.rb, !*.yml, *.haml, *.erb</mask>
-    <mask>!*_spec.rb, !*.yml, *.jsx</mask>
-    <mask>!*_spec.rb, !*.yml, *.css</mask>
-    <mask>!*_spec.rb, !*.yml, **.less</mask>
-    <mask>!*_spec.rb, !*.yml, **.rb</mask>
-    <mask>!*_spec.rb, !*.yml</mask>
-    <mask>!*_spec.rb, !*.yml, *.rb</mask>
-    <mask>!*_spec.rb, !*.yml, *.less</mask>
-    <mask>!*_spec.rb, !*.yml,</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less, *.js.*</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less, **.js</mask>
-    <mask>!*_spec.rb, !*.yml, !*.less</mask>
-    <mask>!*_spec.rb, !*.yml, **.css</mask>
-    <mask>!*.yml, !*.css</mask>
-    <mask>!*_spec.rb, !*.yml, !*.css</mask>
-    <mask>!*.feature</mask>
-    <mask>*.yml</mask>
-    <mask>!*_spec.rb, !*.yml, !*.css, !*.less</mask>
   </component>
 </application>
