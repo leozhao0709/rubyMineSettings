@@ -9,11 +9,4 @@
       <option name="GROOVY_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="forin" value="for($var$ in $iterable$) {&#10;    $END$&#10;}" description="forin" toReformat="true" toShortenFQNames="true">
-    <variable name="var" expression="" defaultValue="&quot;var&quot;" alwaysStopAt="true" />
-    <variable name="iterable" expression="" defaultValue="&quot;iterable&quot;" alwaysStopAt="true" />
-    <context>
-      <option name="GROOVY" value="true" />
-    </context>
-  </template>
 </templateSet>
