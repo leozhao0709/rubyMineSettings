@@ -3506,6 +3506,40 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/autoprefixer-rails-9.7.4/.github" />
       </excluded>
     </library>
+    <library name="avalanche (v1.10.2@36280d, ruby-2.7.1-p83) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/fixtures" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-36280df56f60/fixtures" />
+      </excluded>
+    </library>
     <library name="avalanche (v1.8.2@364291, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -10444,6 +10478,37 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-08739565ab56/script" />
       </excluded>
     </library>
+    <library name="blackcurrant (v2.0.0@948aa6, ruby-2.7.1-p83) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/docker" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/blackcurrant-948aa656ab21/script" />
+      </excluded>
+    </library>
     <library name="bluecloth (v2.2.0, rbenv: 2.7.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -15498,6 +15563,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.5.5/lib/ruby/gems/2.5.0/gems/digest-crc-0.4.1/spec" />
+      </excluded>
+    </library>
+    <library name="discourse_api (v0.40.0, ruby-2.7.1-p83) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/discourse_api-0.40.0/examples" />
       </excluded>
     </library>
     <library name="docile (v1.1.5, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -38915,6 +38999,27 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/riddle-2.3.1/bin" />
       </excluded>
     </library>
+    <library name="rocksdb-ruby (v1.0.0, ruby-2.7.1-p83) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/.travis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/.travis" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/rocksdb-ruby-1.0.0/.travis" />
+      </excluded>
+    </library>
     <library name="roo (v1.11.2, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -44869,6 +44974,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-b753bd54eef6/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-b753bd54eef6/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-b753bd54eef6/spec" />
+      </excluded>
+    </library>
+    <library name="speculator (v0.1.0@551b3e, ruby-2.7.1-p83) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/speculator-551b3e26bb72/spec" />
       </excluded>
     </library>
     <library name="spork (v0.9.2, rbenv: 2.5.5) [gem]" type="rubylib">
