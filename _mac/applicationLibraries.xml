@@ -32097,14 +32097,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/lib" />
@@ -37789,6 +37787,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-eab6a5f0a11f/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-eab6a5f0a11f/spec" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-eab6a5f0a11f/examples" />
+      </excluded>
+    </library>
+    <library name="rdkafka (v0.6.0.pre.c9@1a3022, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/rdkafka-ruby-1a30223a895e/examples" />
       </excluded>
     </library>
     <library name="rdoc (v6.0.1, rbenv: 2.5.5) [gem]" type="rubylib">
