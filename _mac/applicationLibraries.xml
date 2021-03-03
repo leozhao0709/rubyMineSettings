@@ -3632,6 +3632,43 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-5836efb79809/fixtures" />
       </excluded>
     </library>
+    <library name="avalanche (v1.10.6@428132, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/fixtures" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/certs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/avalanche-428132725b4c/fixtures" />
+      </excluded>
+    </library>
     <library name="avalanche (v1.8.2@364291, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -31930,12 +31967,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.10/lib" />
@@ -32150,14 +32189,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/nokogiri/1.10.9" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/nokogiri-1.10.9/lib" />
@@ -38536,6 +38573,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.0/spec" />
       </excluded>
     </library>
+    <library name="redis-namespace (v1.8.1, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/redis-namespace-1.8.1/spec" />
+      </excluded>
+    </library>
     <library name="redis-rack (v2.0.3, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -39350,6 +39403,40 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-03b8bc836642/Gemfiles" />
       </excluded>
     </library>
+    <library name="resque (v1.26.0.3@1b33cb, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/Gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/Gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/log" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/docs" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-1b33cb99fc72/Gemfiles" />
+      </excluded>
+    </library>
     <library name="resque (v1.26.0@81682d, rbenv: 2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -39546,6 +39633,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/gems/resque-dynamic-queues-0.8.1/spec" />
+      </excluded>
+    </library>
+    <library name="resque-dynamic-queues (v0.8.2@c46b6e, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-dynamic-queues-c46b6e343332/spec" />
       </excluded>
     </library>
     <library name="resque-pool (v0.6.0, rbenv: 2.5.5) [gem]" type="rubylib">
@@ -39873,6 +39979,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d47fcd4dd71e/.git" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d47fcd4dd71e/spec" />
+      </excluded>
+    </library>
+    <library name="resque-round-robin (v0.1.6@d78c8f, rbenv: 2.7.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/.git" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.7.1/lib/ruby/gems/2.7.0/bundler/gems/resque-round-robin-d78c8f33b5c0/spec" />
       </excluded>
     </library>
     <library name="resque-scheduler (v4.1.0@07d083, rbenv: 2.5.5) [gem]" type="rubylib">
