@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec.rb" />
+    <option name="FILE_MASK" value="!*_spec.rb, !*.yml, !*.css, !*.less" />
     <mask>*.gemspec</mask>
     <mask>*.rbw</mask>
     <mask>*.jbuilder</mask>
@@ -32,7 +32,7 @@
     <mask>!*_spec.rb, !*.yml, !*.css</mask>
     <mask>!*.feature</mask>
     <mask>*.yml</mask>
-    <mask>!*_spec.rb, !*.yml, !*.css, !*.less</mask>
     <mask>*spec.rb</mask>
+    <mask>!*_spec.rb, !*.yml, !*.css, !*.less</mask>
   </component>
 </application>
